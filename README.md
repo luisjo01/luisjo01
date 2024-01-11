@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola!!!✨
+
+Me llamo Luis, soy un estudiante de Ingenieria en sistemas, aún estoy empezando y mi meta es un dia ser un gran programador...
 
 <!--
 **luisjo01/luisjo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
